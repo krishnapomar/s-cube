@@ -1,0 +1,53 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    display: table;
+    height: 100%;
+    margin: 0;
+    width: 90%;
+    padding-top: 1em;
+    padding-left: 2em;
+    padding-right: 1em;
+    margin-left: 1em;
+  }
+  
+  .navbar-brand{
+      float: left;
+  }
+  .task-status {
+      display: table-row;
+      height: 70%;
+  }
+  .task-header {
+      display: table-row;
+      height: 30%;
+  }
+  .results-table {  
+    white-space: nowrap;
+    max-width: 90%;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 11px;
+  }
+  .bg-success, .bg-danger{
+    color: white;
+  }
+  .card{
+      margin-top: 1em;
+  }
+  .view-cron-btn{
+      margin-left: 0.25em ! important;
+  }
+  .logout{
+      height: 1em; 
+      width: 1em;	
+  }
+  .col-md-auto, .col-lg-2{
+      text-align: right;
+  }
+  .navbar{
+      padding-top: 0;
+      padding-bottom: 0;
+  }

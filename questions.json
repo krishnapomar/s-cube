@@ -1,0 +1,70 @@
+{
+    "1": {
+        "Topic": "Verbal (Numerical Sequence)",
+        "question": {
+            "a": "Find the missing number in the sequence: 58 62 64 __ 70 74 76",
+            "b": "Find the missing number in the sequence: 50 __ 44 41 38 35",
+            "c": "Find the missing number in the sequence: 55 51 57 49 59 __ 61",
+            "d": "Find the missing number in the sequence: __ 61 66 58 69 55 72",
+            "e": "Find the missing number in the sequence: 41 44 __ 47 35 50 32"
+        },
+        "correct":{
+            "a": "66",
+            "b": "47",
+            "c": "53",
+            "d": "64",
+            "e": "38"
+        }
+    },
+    "2": {
+        "Topic": "Numeric (%) calculations",
+        "question": {
+            "a": "20% of 190 is = __",
+            "b": "75% of 340 is = __",
+            "c": "10% of 140 is = __",
+            "d": "45% of 140 is = __",
+            "e": "20% of 180 is = __"
+        },
+        "correct":{
+            "a": "38",
+            "b": "255",
+            "c": "14",
+            "d": "63",
+            "e": "36"
+        }
+    },
+    "3":{
+        "Topic": "Numerical LCM",
+        "question": {
+            "a": "Find LCM of 2, 10, 8, 4: __",
+            "b": "Find LCM of 3, 5, 2: __",
+            "c": "Find LCM of 3, 11: __",
+            "d": "Find LCM of 4, 12, 18, 3: __",
+            "e": "Find LCM of 3, 7: __"
+        },
+        "correct":{
+            "a": "40",
+            "b": "30",
+            "c": "33",
+            "d": "36",
+            "e": "21"
+        }
+    },
+    "4":{
+        "Topic": "Numerical Nuggets",
+        "question": {
+            "a": "(4+21) × __  = 50",
+            "b": "38-17 + = __ 26",
+            "c": "(37+25) - __ = 47",
+            "d": "__ + (30-22) = 21",
+            "e": "9 + __ + 1 = 48"
+        },
+        "correct":{
+            "a": "2",
+            "b": "5",
+            "c": "15",
+            "d": "11",
+            "e": "38"
+        }
+    }
+}

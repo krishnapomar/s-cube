@@ -1,0 +1,16 @@
+{% extends "index.html" %}
+{% block content %}
+<div>
+    <h2>Maths Quiz</h2>
+   
+    {% for item in questions.values() %}
+        <h4>{{item['Topic']}}</h4>
+        <ol>
+            {% for no in item['question'] %}
+                <li>{{item["question"][no]}}</li>
+            {% endfor %}
+        </ol>
+    {% endfor %}
+</div>
+<a class="btn btn-outline-primary" onclick="saveAnswer()">Submit Answers</a>
+{% endblock %}
